@@ -1,0 +1,15 @@
+# Local documents and generated output
+outputs/
+drafts/
+_private/
+*.docx
+*.pdf
+*.zip
+
+# Local credentials and editor data
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

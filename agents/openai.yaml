@@ -1,0 +1,4 @@
+interface:
+  display_name: "技术材料转中文专利"
+  short_description: "根据论文、设计文档或README撰写中文专利，默认完整覆盖方法、系统、设备及介质"
+  default_prompt: "请使用 $paper-to-patent-cn，根据我提供的论文、设计文档或代码README等材料撰写或修订中文专利文件，完整稿默认包含方法、系统、电子设备及计算机可读存储介质，并以我指定的格式和范围为准。"
