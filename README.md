@@ -84,6 +84,8 @@ Word 的页面、字体、段落、公式、图片与分页约定集中在 `figu
 
 ## 贡献与许可
 
+鸣谢：ZKaoChi(https://github.com/ZKaoChi)
+
 欢迎通过 Issue 或 Pull Request 改进通用表达、模块加载边界和文档兼容性。示例请使用合成或已获授权的内容，避免提交未公开论文、专利稿、凭据和私人路径。
 
 本项目采用 [MIT License](LICENSE)。
